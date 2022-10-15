@@ -24,7 +24,7 @@ public class WelcomeScreen {
 		System.out.println("************ Naganandana A J **************");
 		System.out.println("*******************************************");
 		System.out.println("******** Full Stack Developer  ************");
-		System.out.println("*******************************************");
+		System.out.println("********************************************");
 		System.out.println();
 		
 		do {
