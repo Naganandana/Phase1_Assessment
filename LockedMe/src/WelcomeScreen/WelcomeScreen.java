@@ -18,10 +18,10 @@ public class WelcomeScreen {
 
 		// Take user Option from the below mentioned Menu
 		Scanner input = new Scanner(System.in);
-		System.out.println("******************************************");
-		System.out.println("************ Lockers Pvt. Ltd. ***********");
-		System.out.println("******************************************");
-		System.out.println("*********** Naganandana A J **************");
+		System.out.println("*******************************************");
+		System.out.println("************* Lockers Pvt. Ltd. ***********");
+		System.out.println("*******************************************");
+		System.out.println("************ Naganandana A J **************");
 		System.out.println("*******************************************");
 		System.out.println("******** Full Stack Developer  ************");
 		System.out.println("*******************************************");
