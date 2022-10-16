@@ -18,24 +18,27 @@ public class WelcomeScreen {
 
 		// Take user Option from the below mentioned Menu
 		Scanner input = new Scanner(System.in);
-		System.out.println("*******************************************");
-		System.out.println("************* Lockers Pvt. Ltd. ***********");
-		System.out.println("*******************************************");
-		System.out.println("************ Naganandana A J **************");
-		System.out.println("*******************************************");
-		System.out.println("******** Full Stack Developer  ************");
-		System.out.println("*******************************************");
+		System.out.println("||*****************************************||");
+		System.out.println("||             LOCKEDME.COM                ||");
+		System.out.println("||*****************************************||");
+		System.out.println("||      DEVELOPED BY NAGANANDANA A J       ||");
+		System.out.println("||*****************************************||");
+		System.out.println("||       Full Stack Java Developer         ||");
+		System.out.println("||*****************************************||");
 		System.out.println();
 		
 		do {
 
-			System.out.println("Select File Option to perform any operation:- \n");
-			System.out.println("1.File Creation");
-			System.out.println("2.File List");
-			System.out.println("3.File Delete");
-			System.out.println("4.Search file");
-			System.out.println("5.Exit");
-
+			System.out.println("||=================================||");			
+			System.out.println("||             MAIN MENU           ||");
+			System.out.println("||=================================||");			
+			System.out.println("||Select any one of the following: ||");
+			System.out.println("||   1.File Creation               ||");
+			System.out.println("||   2.File List                   ||");
+			System.out.println("||   3.File Delete                 ||");
+			System.out.println("||   4.File Search                 ||");
+			System.out.println("||   5.Exit                        ||");
+			System.out.println("||=================================||");			
 			int choice = input.nextInt();
 
 			switch (choice) {
